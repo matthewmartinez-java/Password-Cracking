@@ -56,6 +56,6 @@ Password-Cracking simulates a controlled password attack environment using **Joh
 <div align="center"> <img src="https://github.com/user-attachments/assets/8b52fab4-a7cd-4168-bb90-fd2fd7b78f60" alt="MLB Stat Comparison UI" width="700"/></div>
 
 ##  Future Work
--Automate cracking and result logging with Python
--Add hash benchmarking script with visual graphs
--Explore GPU cracking with Hashcat
+- Automate cracking and result logging with Python
+- Add hash benchmarking script with visual graphs
+- Explore GPU cracking with Hashcat
